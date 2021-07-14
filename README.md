@@ -7,6 +7,6 @@ npm start
 ```
 
 *GitHub:*
-
+https://github.com/aayushichourasiya/bgColor
 
 *Video Tutorial:*
