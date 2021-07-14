@@ -1,2 +1,12 @@
-# bgColor
-Background Colour Changer using React Native
+# Background Colour Changer - React Native Projects
+
+Run React Native application using
+
+```
+npm start
+```
+
+*GitHub:*
+
+
+*Video Tutorial:*
